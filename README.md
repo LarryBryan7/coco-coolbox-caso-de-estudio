@@ -115,6 +115,7 @@ Detalle de capas, patrones y manejo de estado en [`docs/arquitectura.md`](docs/a
 
 - Flutter
 - Dart
+- Material Design (`MaterialApp` + tema propio)
 - BLoC/Cubit (`flutter_bloc`)
 - Dio
 - Hive / `hive_flutter`
