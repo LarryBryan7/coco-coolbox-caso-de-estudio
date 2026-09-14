@@ -1,4 +1,4 @@
-# COCO COOLBOX <img src="assets/coolbox-logo.png" alt="Coolbox" width="110" valign="middle" />
+# COCO COOLBOX <img src="assets/coolbox-logo.png" alt="Coolbox" width="45" valign="middle" />
 
 Aplicación móvil multiplataforma (Android/iOS) para operaciones de almacén de Coolbox, orientada al registro y validación de productos asociados a órdenes de compra mediante escaneo de códigos de barras, con soporte para escenarios de conectividad intermitente.
 
