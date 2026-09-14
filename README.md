@@ -5,7 +5,7 @@ Aplicación móvil multiplataforma (Android/iOS) para operaciones de almacén de
 App publicada en Google Play: [com.coolbox.coco](https://play.google.com/store/apps/details?id=com.coolbox.coco)
 
 > **Proyecto empresarial — código propietario.**
-> Desarrollé esta aplicación completa a través de la consultora Software Enterprise Services (SES/Sesit Digital), para su cliente Coolbox. El código es propiedad del cliente y no puede publicarse. Este repositorio es un **case study de documentación**: explica arquitectura, flujos y mi contribución, sin código fuente real ni datos de negocio reales.
+> Desarrollé esta aplicación a través de la consultora Software Enterprise Services, para su cliente Coolbox. El código es propiedad del cliente y no puede publicarse. Este repositorio es un **case estudio de documentación**: explica arquitectura, flujos y mi contribución, sin código fuente real ni datos de negocio reales.
 
 ---
 
