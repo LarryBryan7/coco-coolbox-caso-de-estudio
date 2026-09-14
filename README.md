@@ -59,9 +59,9 @@ flowchart LR
 |---|---|---|
 | <img src="screenshots/01-login.png" width="220" /> | <img src="screenshots/02-busqueda-ordenes.png" width="220" /> | <img src="screenshots/03-orden-pendiente-dialogo.png" width="220" /> |
 
-| 4. Detalle y escaneo | 5. Lista de productos |
-|---|---|
-| <img src="screenshots/04-detalle-escaneo.png" width="220" /> | <img src="screenshots/05-lista-productos.png" width="220" /> |
+| 4. Detalle y escaneo | 5. Lista de productos | 6. Registrar código de barras |
+|---|---|---|
+| <img src="screenshots/04-detalle-escaneo.png" width="220" /> | <img src="screenshots/05-lista-productos.png" width="220" /> | <img src="screenshots/07-registrar-codigo-barras.png" width="220" /> |
 
 *Datos ficticios (`COOLBOX DEMO`, `Proveedor Demo S.A.C.`, `SKU-0001`). La captura 3 es evidencia directa del diálogo de recuperación de orden pendiente descrito en la siguiente sección.*
 
