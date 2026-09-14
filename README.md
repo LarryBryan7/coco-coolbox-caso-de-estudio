@@ -19,8 +19,7 @@ Aplicación móvil multiplataforma (Android/iOS) para operaciones de almacén de
 6. [Mi participación](#mi-participación)
 7. [Arquitectura](#arquitectura)
 8. [Stack tecnológico](#stack-tecnológico)
-9. [Testing](#testing)
-10. [Confidencialidad](#confidencialidad)
+9. [Confidencialidad](#confidencialidad)
 
 ---
 
@@ -125,10 +124,6 @@ Detalle de capas, patrones y manejo de estado en [`docs/arquitectura.md`](docs/a
 - Lottie
 - `pretty_dio_logger`
 - Git
-
-## Testing
-
-No se identificaron tests unitarios, de widgets ni de integración en el proyecto (no existe carpeta `test/` con contenido). Lo indico explícitamente en vez de omitirlo.
 
 ## Confidencialidad
 
