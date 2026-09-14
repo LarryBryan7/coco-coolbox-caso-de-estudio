@@ -1,8 +1,8 @@
-# COCO COOLBOX <img src="assets/coolbox-logo.png" alt="Coolbox" width="45" valign="middle" />
+# 📲 COCO COOLBOX <img src="assets/coolbox-logo.png" alt="Coolbox" width="45" valign="middle" />
 
 Aplicación móvil multiplataforma (Android/iOS) para operaciones de almacén de Coolbox, orientada al registro y validación de productos asociados a órdenes de compra mediante escaneo de códigos de barras, con soporte para escenarios de conectividad intermitente.
 
-📲 App publicada en Google Play: [com.coolbox.coco](https://play.google.com/store/apps/details?id=com.coolbox.coco)
+App publicada en Google Play: [com.coolbox.coco](https://play.google.com/store/apps/details?id=com.coolbox.coco)
 
 > **Proyecto empresarial — código propietario.**
 > Desarrollé esta aplicación completa a través de la consultora Software Enterprise Services (SES/Sesit Digital), para su cliente Coolbox. El código es propiedad del cliente y no puede publicarse. Este repositorio es un **case study de documentación**: explica arquitectura, flujos y mi contribución, sin código fuente real ni datos de negocio reales.
