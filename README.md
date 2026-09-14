@@ -114,7 +114,17 @@ Detalle de capas, patrones y manejo de estado en [`docs/arquitectura.md`](docs/a
 
 ## Stack tecnológico
 
-Flutter · Dart · BLoC/Cubit (`flutter_bloc`) · Dio · Hive / `hive_flutter` · Freezed · `json_serializable` · Honeywell Scanner SDK · Lottie · `pretty_dio_logger` · Git
+- Flutter
+- Dart
+- BLoC/Cubit (`flutter_bloc`)
+- Dio
+- Hive / `hive_flutter`
+- Freezed
+- `json_serializable`
+- Honeywell Scanner SDK
+- Lottie
+- `pretty_dio_logger`
+- Git
 
 ## Testing
 
